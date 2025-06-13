@@ -1,0 +1,6 @@
+PyMuPDF
+# tkinter 
+transformers 
+torch
+pyinstaller 
+ttkbootstrap
